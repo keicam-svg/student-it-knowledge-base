@@ -4,4 +4,4 @@
 
 ### W "main/docs/ukos/bash.md" znajduje się ściągawa do basha.
 ### W "main/docs/warp/git.md" znajduje się ściągawa do gita.
-### W "main/docs/pepegie1/dotnet-cli.md" znajduje się ściągawa do dotnet.
+### W "main/docs/prg1/dotnet-cli.md" znajduje się ściągawa do dotnet.
