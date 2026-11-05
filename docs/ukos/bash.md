@@ -6,5 +6,5 @@ dotyk - touch bash.md -  Tworzenie pustego pliku lub aktualizacja czasu jego mod
 cyberpunk - cp bash.md bash-backup.md - Kopiowanie pliku; wspomnij o opcji -r dla katalogów.
 maverick - mv bash-backup.md archive.md - Przenoszenie i zmiana nazwy pliku.
 rambo - rm archive.md -  Usuwanie pliku bez kosza.
-kot - cat bash.md -  Usuwanie pliku i ostrzeżenie, że operacja omija kosz.
+kot - cat bash.md -  Wyświetlanie zawartości pliku.
 czystosc - clear -  Usuwanie pliku i ostrzeżenie, że operacja omija kosz.
